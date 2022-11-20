@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Nouvelle application React.js | CodeCademy
         </a>
       </header>
     </div>
